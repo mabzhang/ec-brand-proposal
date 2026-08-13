@@ -1,4 +1,4 @@
-# EC-Brand Proposal
+# EC-Brand Proposal SKILL
 
 > 📘 **首次使用请先看：[EC-Brand Proposal 具体使用说明（飞书）](https://my.feishu.cn/wiki/IiIgwCoPpik1wikrSSIcbR3Andb?from=from_copylink)**
 >
