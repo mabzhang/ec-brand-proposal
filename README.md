@@ -1,5 +1,9 @@
 # EC-Brand Proposal
 
+> 📘 **首次使用请先看：[EC-Brand Proposal 具体使用说明（飞书）](https://my.feishu.cn/wiki/IiIgwCoPpik1wikrSSIcbR3Andb?from=from_copylink)**
+>
+> 这份完整指南详细说明它能做什么、如何与你共创、怎样从不同阶段接入、能力边界、实际案例、方法设计以及安装与开始使用。
+
 > **品牌方案提案**：一套面向中国市场广告、品牌与 Campaign 提案的人机共创 Skill。
 >
 > A human–AI co-creation Skill for brand and campaign proposals in China.
