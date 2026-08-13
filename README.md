@@ -73,7 +73,7 @@ git clone https://github.com/mabzhang/ec-brand-proposal.git
 ### 能力边界
 
 - 默认面向中国市场；涉及品牌、市场、消费者、渠道、平台规则等当前事实时，需要联网检索和来源验证。
-- 不默认抓取小红书笔记或评论区；需要此类观察时，应由用户提供授权材料或人工观察结果。
+- 不抓取小红书笔记或评论区；需要此类观察时，应由用户提供授权材料或人工观察结果。
 - 可以发展 KV 概念、TVC 方向与文字脚本、事件营销方向和媒介 Roadmap，但不直接替代 KV 成图、拍摄制作、生产级分镜或完整事件执行。
 - PPT/PDF 生产依赖当前 Agent 可用的工具、文件权限和已经确认的逐页内容。
 - Skill 提供研究、推理、比较和共创框架，不替代客户内部信息、行业经验、审美判断与最终决策，也不保证特定商业结果。
@@ -136,7 +136,7 @@ See [`SKILL.md`](./SKILL.md) for routing, stage rules, and completion checks.
 ### Scope and limitations
 
 - The default research context is the Chinese market. Current claims about brands, markets, consumers, channels, or platform rules require live research and source verification.
-- The Skill does not scrape Xiaohongshu posts or comments by default.
+- The Skill does not scrape Xiaohongshu posts or comments.
 - It can develop KV concepts, TVC directions and text scripts, event-marketing directions, and media roadmaps, but it does not replace finished artwork, filming, production-ready storyboards, or complete event execution.
 - PPT/PDF production depends on the tools, permissions, and approved page content available in the current Agent environment.
 - The Skill supports research and decision-making; it does not replace internal business information, professional expertise, creative judgment, or final human approval, and it cannot guarantee business outcomes.
